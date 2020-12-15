@@ -1,0 +1,7 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1} CREANDO UNA BASE DE DATOS CLAVE-VALOR}{1}%
+\contentsline {section}{\numberline {2} CREACION DE TABLA}{2}%
+\contentsline {section}{\numberline {3}AGREGANDO DATOS A LA TABLA}{6}%
+\contentsline {section}{\numberline {4}REALIZANDO CONSULTAS A LA TABLA}{8}%
+\contentsline {section}{\numberline {5}ELIMINANDO DATOS DE LA TABLA}{10}%
+\contentsline {section}{\numberline {6}ELIMINANDO LA TABLA}{11}%
